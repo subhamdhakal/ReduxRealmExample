@@ -1,0 +1,2 @@
+export const DATA_LOADED = 'DATA_LOADED';
+export const UPDATE_POSTS_COUNT = 'UPDATE_POSTS_COUNT';
